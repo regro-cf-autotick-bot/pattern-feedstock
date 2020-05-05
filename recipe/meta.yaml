@@ -60,12 +60,13 @@ test:
     - pattern.web.oauth
 
 about:
-  home: http://www.clips.ua.ac.be/pages/pattern
+  home: https://github.com/clips/pattern
   license: BSD-3-Clause
   license_family: BSD
   license_file: LICENSE.txt
-  summary: 'Web mining module for Python.'
+  summary: 'Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.'
   dev_url: https://github.com/clips/pattern
+  doc_url: https://github.com/clips/pattern/wiki
 
 extra:
   recipe-maintainers:
